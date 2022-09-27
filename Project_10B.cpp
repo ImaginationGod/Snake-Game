@@ -1,4 +1,4 @@
-// Snake Game (Copied tail logic)
+// Snake Game
 #include<iostream>
 #include<conio.h>
 #include<windows.h>
